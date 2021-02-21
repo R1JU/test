@@ -1,5 +1,5 @@
 #while loop
-i=
+i=1
 #raju is a gentleman
 while i<6:
     print(i)
